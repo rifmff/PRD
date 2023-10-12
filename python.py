@@ -1,5 +1,3 @@
-
-
 baris = 5 #jumlah baris
 count = 1 #dummy variable
 z = 5
